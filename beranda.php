@@ -139,13 +139,13 @@
                 <?php
                 // Data produk hijab
                 $datapaket = array(
-                    array("AfiHijab motif bahan voal Trystan ukuran 110 x 110 cm.", "Hijab untuk kegiatan sehari-hari", 150000, "img/hijab-basic.jpg"),
-                    array("AfiHijab motif bahan voal Trinity ukuran 110 x 110 cm.", "Hijab dengan bahan premium dan elegan", 125000, "img/hijab-premium.jpg"),
-                    array("AfiHijab motif bahan voal ukuran 120 x 120 cm.", "Hijab syar'i dengan desain stylish", 60000, "img/hijab-syari.jpg"),
-                    array("AfiHijab motif bahan voal ukuran 120 x 120 cm.", "Hijab polos simpel untuk gaya minimalis", 45000, "img/hijab-poloss.jpg"),
-                    array("AfiHijab polos bahan voal hijab syar'i ukuran 130 x 130 cm.", "Hijab eksklusif untuk acara pernikahan", 85000, "img/hijab-bridal.jpg"),
-                    array("AfiHijab polos bahan katun Jepang ukuran 115 x 115 cm.", "Hijab instan dengan gaya modern", 90000, "img/hijab-modern.jpg"),
-                    array("AfiHijab polos bahan pollykatun ukuran 110 x 110 cm.", "Hijab instan dengan gaya modern", 35000, "img/hijab-modern.jpg"),
+                    array("AfiHijab motif bahan voal Trystan ukuran 110 x 110 cm.", "Hijab untuk kegiatan sehari-hari", 150000, "img/kerudung1.jpeg"),
+                    array("AfiHijab motif bahan voal Trinity ukuran 110 x 110 cm.", "Hijab dengan bahan premium dan elegan", 125000, "img/kerudung1.jpeg"),
+                    array("AfiHijab motif bahan voal ukuran 120 x 120 cm.", "Hijab syar'i dengan desain stylish", 60000, "img/kerudung1.jpeg"),
+                    array("AfiHijab motif bahan voal ukuran 120 x 120 cm.", "Hijab polos simpel untuk gaya minimalis", 45000, "img/kerudung1.jpeg"),
+                    array("AfiHijab polos bahan voal hijab syar'i ukuran 130 x 130 cm.", "Hijab eksklusif untuk acara pernikahan", 85000, "img/kerudung1.jpeg"),
+                    array("AfiHijab polos bahan katun Jepang ukuran 115 x 115 cm.", "Hijab instan dengan gaya modern", 90000, "img/kerudung1.jpeg"),
+                    array("AfiHijab polos bahan pollykatun ukuran 110 x 110 cm.", "Hijab instan dengan gaya modern", 35000, "img/kerudung1.jpeg"),
                 );
 
                 // Looping produk hijab
